@@ -1,0 +1,8 @@
+= JAVA COllECTIONS Aufgabe
+
+== Intellijproject
+
+=== To-DO-Liste
+
+[%interactive]
+- [ ] Aufgabe analysiseren
