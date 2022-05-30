@@ -1,4 +1,4 @@
-= JAVA COllECTIONS Aufgabe
+= JAVA COLLECTIONS Aufgabe
 
 == Intellijproject
 
