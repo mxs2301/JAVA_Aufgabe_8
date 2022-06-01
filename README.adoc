@@ -5,4 +5,4 @@
 === To-DO-Liste
 
 [%interactive]
-- [ ] Aufgabe analysiseren
+- +++<s> Aufgabe erledigt </s>+++
